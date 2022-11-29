@@ -1,0 +1,15 @@
+C:\Geekbrains\seminar28112022\sem28112022_2\bin\Debug\net7.0\sem28112022_2.exe
+C:\Geekbrains\seminar28112022\sem28112022_2\bin\Debug\net7.0\sem28112022_2.deps.json
+C:\Geekbrains\seminar28112022\sem28112022_2\bin\Debug\net7.0\sem28112022_2.runtimeconfig.json
+C:\Geekbrains\seminar28112022\sem28112022_2\bin\Debug\net7.0\sem28112022_2.dll
+C:\Geekbrains\seminar28112022\sem28112022_2\bin\Debug\net7.0\sem28112022_2.pdb
+C:\Geekbrains\seminar28112022\sem28112022_2\obj\Debug\net7.0\sem28112022_2.csproj.AssemblyReference.cache
+C:\Geekbrains\seminar28112022\sem28112022_2\obj\Debug\net7.0\sem28112022_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Geekbrains\seminar28112022\sem28112022_2\obj\Debug\net7.0\sem28112022_2.AssemblyInfoInputs.cache
+C:\Geekbrains\seminar28112022\sem28112022_2\obj\Debug\net7.0\sem28112022_2.AssemblyInfo.cs
+C:\Geekbrains\seminar28112022\sem28112022_2\obj\Debug\net7.0\sem28112022_2.csproj.CoreCompileInputs.cache
+C:\Geekbrains\seminar28112022\sem28112022_2\obj\Debug\net7.0\sem28112022_2.dll
+C:\Geekbrains\seminar28112022\sem28112022_2\obj\Debug\net7.0\refint\sem28112022_2.dll
+C:\Geekbrains\seminar28112022\sem28112022_2\obj\Debug\net7.0\sem28112022_2.pdb
+C:\Geekbrains\seminar28112022\sem28112022_2\obj\Debug\net7.0\sem28112022_2.genruntimeconfig.cache
+C:\Geekbrains\seminar28112022\sem28112022_2\obj\Debug\net7.0\ref\sem28112022_2.dll
